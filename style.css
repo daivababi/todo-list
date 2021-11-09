@@ -1,0 +1,12 @@
+body, input, button {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+
+button {
+  margin: 3px 3px;
+}
+
+.done {
+  text-decoration: line-through;
+}
